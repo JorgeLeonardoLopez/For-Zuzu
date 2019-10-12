@@ -1,0 +1,5 @@
+﻿  Bear.cpp
+c:\users\jorge\desktop\tutor zuzu stuff\tutorzuzu\tutorzuzu\bear.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jorge\desktop\tutor zuzu stuff\tutorzuzu\tutorzuzu\bear.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jorge\desktop\tutor zuzu stuff\tutorzuzu\tutorzuzu\animal.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TutorZuzu.vcxproj -> C:\Users\JORGE\Desktop\Tutor Zuzu stuff\TutorZuzu\Debug\TutorZuzu.exe
