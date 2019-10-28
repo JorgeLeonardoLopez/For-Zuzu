@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\jorge\desktop\zuzu repo\parserproject\parserproject\parserproject\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorge\desktop\zuzu repo\parserproject\parserproject\parserproject\source.cpp(152): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\jorge\desktop\zuzu repo\parserproject\parserproject\parserproject\source.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorge\desktop\zuzu repo\parserproject\parserproject\parserproject\source.cpp(219): warning C4101: 'x': unreferenced local variable
+c:\users\jorge\desktop\zuzu repo\parserproject\parserproject\parserproject\source.cpp(254): warning C4101: 'x': unreferenced local variable
+c:\users\jorge\desktop\zuzu repo\parserproject\parserproject\parserproject\source.cpp(270): warning C4101: 'x': unreferenced local variable
+  ParserProject.vcxproj -> C:\Users\JORGE\Desktop\Zuzu Repo\ParserProject\ParserProject\Debug\ParserProject.exe

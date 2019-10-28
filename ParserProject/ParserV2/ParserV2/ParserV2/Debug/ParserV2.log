@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jorge\desktop\zuzu repo\parserproject\parserv2\parserv2\parserv2\source.cpp(55): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\jorge\desktop\zuzu repo\parserproject\parserv2\parserv2\parserv2\source.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorge\desktop\zuzu repo\parserproject\parserv2\parserv2\parserv2\source.cpp(241): warning C4018: '<': signed/unsigned mismatch
+  ParserV2.vcxproj -> C:\Users\JORGE\Desktop\Zuzu Repo\ParserProject\ParserV2\ParserV2\Debug\ParserV2.exe
